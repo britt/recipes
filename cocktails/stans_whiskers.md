@@ -1,6 +1,6 @@
 # Satan's Whiskers
 
-from: [Cocktial Hacker](http://cocktailhacker.com/?p=1230)
+from: [Cocktail Hacker](http://cocktailhacker.com/?p=1230)
 
 ## Ingredients
 
